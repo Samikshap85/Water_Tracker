@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "493240216566",
+    "firebase_url": "https://mywaterreminderapplication-default-rtdb.firebaseio.com",
+    "project_id": "mywaterreminderapplication",
+    "storage_bucket": "mywaterreminderapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493240216566:android:ba2992c645a5c8a37c35d7",
+        "android_client_info": {
+          "package_name": "com.example.jpt4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493240216566-3s0lsi9ca9n81lfdd57h9q97k9skb44o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtnR7Ux9O7PAQQLUk_D_D0SRhBXazY1sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493240216566-3s0lsi9ca9n81lfdd57h9q97k9skb44o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493240216566:android:0a022e01c060a68f7c35d7",
+        "android_client_info": {
+          "package_name": "com.example.mywatertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493240216566-3s0lsi9ca9n81lfdd57h9q97k9skb44o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtnR7Ux9O7PAQQLUk_D_D0SRhBXazY1sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493240216566-3s0lsi9ca9n81lfdd57h9q97k9skb44o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
